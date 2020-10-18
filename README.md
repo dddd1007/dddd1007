@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi! I am Xiaokai Xia 夏骁凯 👋
 
-<!--
-**dddd1007/dddd1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+你好，我是夏骁凯，华南师范大学心理学院在读博士研究生。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我的研究方向是**认知控制功能的计算模型**。研究方法主要使用计算机程序模拟人类行为，并依据模拟结果在神经影像或神经电信号上寻找相关证据。
+
+我的个人兴趣主要是**高性能计算技术**，目前正在使用 Julia 语言完成研究中的大部分代码。我同时也有 R 与 Python 的使用经验。
+
+我同样对于**数据科学的教育公平性**抱有很大的兴趣。曾在自己组织的 PsychoR 团队，以及在统计之都内，进行面向高校的编程入门和数据分析的培训。也曾于广州的公立机构和慈善机构合作，为残障人士进行数据科学方面的相关培训。
+
+我曾经是一名中医，具有一定的在三甲医院门诊与病房的中医与现代医学临床工作经验。我同时也在接受精神分析方面的训练，接受个人分析训练约 120 小时。作为咨询师工作约 50 小时。
+
+---
