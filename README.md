@@ -15,9 +15,9 @@
 
 I am a Ph.D. student who majors in computational cognitive neuroscience at South China Normal University. I am working on **computational model of cognitive control** now. I am trying to model the behavior of learning and decision making in human.
 
-My interests is ** High-performance computing**, I am using Julialang to build the models in my research. I also have years of experience in R and Python.
+My interests is **High-performance computing**, I am using Julialang to build the models in my research. I also have years of experience in R and Python.
 
-I am working on **educational equity of data science**. I have organized a team or working in [Capital of Statistics](cosx.org), to teach the program and basic statistics in universities.
+I am working on **educational equity of data science**. I have organized a team or working in [Capital of Statistics](https://cosx.org), to teach the program and basic statistics in universities.
 
 I was a doctor of traditional Chinese medicine. Moreover, I am trained as a psychotherapist now.
 
