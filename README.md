@@ -13,7 +13,7 @@
 
 ---
 
-I am a Ph.D. student who majors in computational cognitive neuroscience at South China Normal University. I am working on building the computational model of cognitive control now. I am trying to model the behavior of learning and decision making in human.
+I am a Ph.D. student who majors in computational cognitive neuroscience at South China Normal University. I am working on building a computational model of cognitive control now. I am trying to model the behavior of learning and decision making in human.
 
 My interests are High-performance computing. I am using Julialang to build the models in my research. I also have years of experience in R and Python.
 
