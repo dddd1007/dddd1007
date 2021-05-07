@@ -17,8 +17,8 @@ I am a Ph.D. student who majors in computational cognitive neuroscience at South
 
 My interests are High-performance computing. I am using Julialang to build the models in my research. I also have years of experience in R and Python.
 
-I am working on the educational equity of data science as well. I have organized a team or working in the [Capital of Statistics](https://cosx.org/) to teach the program and basic statistics in universities. I worked with public institutions and NGOs in Guangzhou to provide data science training for people with disabilities.
+I am working on the educational equity of data science as well. I have organized a team or worked in the [Capital of Statistics](https://cosx.org/) to teach the program and basic statistics in universities. I worked with public institutions and NGOs in Guangzhou to provide data science training for people with disabilities.
 
-I was a doctor of traditional Chinese medicine. Moreover, I am trained as a psychotherapist now.
+I was a doctor of traditional Chinese medicine. Moreover, I had received psychoanalysis training for 3 years.
 
 ---
