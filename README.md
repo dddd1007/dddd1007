@@ -5,7 +5,7 @@
 
 你好，我是华南师范大学心理学院在读博士研究生。我的研究方向是**认知控制功能的计算模型**。研究方法主要使用计算机程序模拟人类行为，并依据模拟结果在神经影像或神经电信号上寻找相关证据。
 
-我的个人兴趣主要是**高性能计算技术**，目前正在使用 Julia 语言完成研究中的大部分代码。我同时也有 R 与 Python 的使用经验。
+我的个人兴趣主要是**高性能计算技术**，目前正在使用 Julia 语言完成研究中的大部分代码。我同时也有 R 与 Python , Wolfram Language 的使用经验。
 
 我同样对于**数据科学的教育公平性**抱有很大的兴趣。曾在自己组织的 PsychoR 团队，以及在[统计之都](https://cosx.org/)内，进行面向高校的编程入门和数据分析的培训。也曾与广州的公立机构和慈善机构合作，为残障人士进行数据科学方面的相关培训。
 
@@ -15,7 +15,7 @@
 
 I am a Ph.D. student who majors in computational cognitive neuroscience at South China Normal University. I am working on building a computational model of cognitive control now. I am trying to model the behavior of learning and decision making in human.
 
-My interests are High-performance computing. I am using Julialang to build the models in my research. I also have years of experience in R and Python.
+My interests are High-performance computing. I am using Julialang to build the models in my research. I also have years of experience in R, Python and Wolfram Language.
 
 I am working on the educational equity of data science as well. I have organized a team or worked in the [Capital of Statistics](https://cosx.org/) to teach the program and basic statistics in universities. I worked with public institutions and NGOs in Guangzhou to provide data science training for people with disabilities.
 
